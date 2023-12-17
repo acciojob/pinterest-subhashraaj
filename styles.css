@@ -20,6 +20,7 @@
 }
 img{
 	padding-right:40px;
+	object-fit:cover;
 }
 button{
 	border:none;
